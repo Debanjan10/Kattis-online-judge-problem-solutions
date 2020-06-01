@@ -1,9 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-void winner()
-{
-	
-}
 int main()
 {
 	int n;
